@@ -1,6 +1,6 @@
 # ShopLens Privacy Policy
 
-Effective Date: [Date]
+Effective Date: 11/07/2023
 
 Welcome to ShopLens! This Privacy Policy describes how ShopLens ("we," "us," or "our") collects, uses, and shares information when you use the ShopLens mobile application ("App"). By using the App, you agree to the terms of this Privacy Policy.
 
